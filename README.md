@@ -16,17 +16,17 @@ Each notebook has two versions (all python scripts are unaffected by this):
 ***
 
 ## Available tutorials
-- [Advanced uses of SHAP values]()
-- [Common pitfalls in linear model coefficients interpretation]()
-- [Drop_column_feature]()
-- [Explain NLP Models with LIME]()
-- [Introduction to permutation importance]()
-- [PDF = Partial Dependence Plot & ICE = Individual Conditional Expectation]()
-- [PDP = Partial Dependence Plots V2]()
-- [Permuatation importance in random forest - cardinality]()
-- [Permutation Importance with Collinearity]()
-- [SHAP - SHapley Additive exPlanations]()
-- [SHapley Additive exPlanation]()
+- [Advanced uses of SHAP values](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Advanced%20uses%20of%20SHAP%20values.ipynb)
+- [Common pitfalls in linear model coefficients interpretation](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Common%20pitfalls%20in%20linear%20model%20coefficients%20interpretation.ipynb)
+- [Drop_column_feature](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Drop_column_feature.ipynb)
+- [Explain NLP Models with LIME](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Explain%20NLP%20Models%20with%20LIME.ipynb)
+- [Introduction to permutation importance](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Introduction%20to%20permutation%20importance.ipynb)
+- [PDF = Partial Dependence Plot & ICE = Individual Conditional Expectation](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/PDF%20%3D%20Partial%20Dependence%20Plot%20%26%20ICE%20%3D%20Individual%20Conditional%20Expectation.ipynb)
+- [PDP = Partial Dependence Plots V2](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/PDP%20%3D%20Partial%20Dependence%20Plots%20V2.ipynb)
+- [Permuatation importance in random forest - cardinality](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Permuatation%20importance%20in%20random%20forest%20-%20cardinality.ipynb)
+- [Permutation Importance with Collinearity](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/Permutation%20Importance%20with%20Collinearity.ipynb)
+- [SHAP - SHapley Additive exPlanations](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/SHAP%20-%20SHapley%20Additive%20exPlanations.ipynb)
+- [SHapley Additive exPlanation](https://github.com/kyaiooiayk/Explainable-AI-xAI-Notes/blob/main/tutorials/GitHub_MD_rendering/SHapley%20Additive%20exPlanation.ipynb)
 
 ## References
 - [What’s wrong with “explainable A.I.”](https://fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/)
